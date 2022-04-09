@@ -1,8 +1,0 @@
-name: CC_Database
-version: ${project.version}
-main: org.cc.Main
-api-version: 1.18
-authors: [ Zer0Calib3r ]
-commands:
-  removedb:
-    description: removes users from the database
